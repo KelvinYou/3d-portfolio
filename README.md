@@ -1,4 +1,4 @@
-# React JS Modern 3D Portfolio using Three.js
+<!-- # React JS Modern 3D Portfolio using Three.js
 
 ![React JS Modern 3D Portfolio using Three.js](/.github/images/img_main.png "React JS Modern 3D Portfolio using Three.js")
 
@@ -152,4 +152,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `yarn run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->

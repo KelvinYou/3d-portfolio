@@ -18,12 +18,9 @@ import {
   git,
   figma,
   docker,
-  meta,
+  jonvi,
   techtics,
   finexus,
-  starbucks,
-  tesla,
-  shopify,
   threejs,
   project1,
   project2,
@@ -61,7 +58,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Flutter Developer",
     icon: mobile,
   },
   {
@@ -69,7 +66,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Blockchain Developer",
     icon: creator,
   },
 ];
@@ -148,8 +145,9 @@ const experiences = [
       // "Implementing responsive design and ensuring cross-browser compatibility.",
       // "Participating in code reviews and providing constructive feedback to other developers.",
     ],
-    programming_languages: [
-      "React.js",
+    tools: [
+      "NextJS",
+      "ReactJS",
       "Java for Android",
       "Firebase",
       "Oracle SQL",
@@ -170,21 +168,51 @@ const experiences = [
       "Revitalized project's frontend using ReactJS for enhanced maintenance, modernization, and dynamic website capabilities.",
       "Developed a cutting-edge blockchain application utilizing ReactJS and Solidity to seamlessly integrate smart contracts with MetaMask for secure and streamlined transactions.",
       "Explored Laravel's router functionality, MVC architecture, ORM, events, listeners, and data seeding techniques for efficient database testing.",
-      "Led a Laravel project under senior guidance, focusing primarily on frontend development. Implemented key functionalities such as authentication, real-time exchange rate fetching, dynamic UI updates, and built APIs for seamless CRUD operations on transactions.",
+      "Implemented key functionalities such as authentication, real-time exchange rate fetching, dynamic UI updates, and built APIs for seamless CRUD operations on transactions.",
       
       // "Developing and maintaining web applications using React.js and other related technologies.",
       // "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       // "Implementing responsive design and ensuring cross-browser compatibility.",
       // "Participating in code reviews and providing constructive feedback to other developers.",
     ],
-    programming_languages: [
+    tools: [
       "Laravel PHP",
+      "PhpMyAdmin",
       "Typescript",
       "Javascript",
+      "Solidity",
       "ReactJS",
+      "NodeJS",
       "ExpressJS",
       "PuppeteerJS",
-      "Git"
+      "Git",
+      "MetaMask"
+    ],
+  },
+  {
+    title: "Web Developer Intern",
+    company_name: "Jonvi Marketing Sdn Bhd",
+    icon: jonvi,
+    iconBg: "#E6DEDD",
+    date: "Jan 2019 - May 2019",
+    points: [
+      "Master website design with HTML, CSS, JavaScript and some simple Bootstrap.",
+      "Understand how to connect the frontend and backend through APIs.",
+      "Explore HTTPS methods (GET, POST, DELETE, PUT) and practice testing with Postman. Learn how to call APIs in HTML or PHP files.",
+      "Acquired Python scripting skills.",
+      "Gained expertise in using Google Scripts to automate data entry tasks in Google Sheets.",
+    ],
+    tools: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Php",
+      "Python",
+      "MySQL",
+      "Git",
+      "NodeJS",
+      "Bootstrap",
+      "Postman API"
     ],
   },
 

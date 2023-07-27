@@ -25,12 +25,9 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
+import jonvi from "./company/jonvi.png";
 import techtics from "./company/techtics.png";
 import finexus from "./company/finexus.png";
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 
 import project1 from "./project1.png";
 import project2 from "./project2.png";
@@ -62,12 +59,9 @@ export {
   tailwind,
   typescript,
   threejs,
+  jonvi,
   techtics,
   finexus,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   project1,
   project2,
   project3,

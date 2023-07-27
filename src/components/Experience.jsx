@@ -53,7 +53,7 @@ const ExperienceCard = ({ experience }) => (
     </ul>
 
     <div className="mt-5 flex flex-wrap gap-y-2">
-      {experience.programming_languages.map((language, index) => (
+      {experience.tools.map((language, index) => (
         <div 
           key={index}
           class="text-xs font-medium mr-2 px-2.5 py-0.5 rounded bg-gray-700 text-gray-300"
