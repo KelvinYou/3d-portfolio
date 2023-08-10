@@ -28,6 +28,7 @@ import threejs from "./tech/threejs.svg";
 import jonvi from "./company/jonvi.png";
 import techtics from "./company/techtics.png";
 import finexus from "./company/finexus.png";
+import beyondsoft from "./company/beyondsoft.jpeg";
 
 import project1 from "./project1.png";
 import project2 from "./project2.png";
@@ -59,9 +60,12 @@ export {
   tailwind,
   typescript,
   threejs,
+
   jonvi,
   techtics,
   finexus,
+  beyondsoft,
+
   project1,
   project2,
   project3,

@@ -18,9 +18,12 @@ import {
   git,
   figma,
   docker,
+
   jonvi,
   techtics,
   finexus,
+  beyondsoft,
+
   threejs,
   project1,
   project2,
@@ -130,8 +133,31 @@ const technologies = [
 // Experiences
 const experiences = [
   {
+    title: "Frontend Web Developer",
+    company_name: "Beyondsoft (Malaysia) Sdn. Bhd.",
+    icon: beyondsoft,
+    iconBg: "#FFF",
+    date: "Aug 2023 - Today",
+    points: [
+      // ""
+      // "Focused on Java-based project maintenance, utilizing JSP and Tomcat. Conducted R&D for innovative features such as reusable custom dialogs and remote log file retrieval. Conducted comprehensive testing and documentation for quality assurance.",
+      // "Contributed to large-scale projects involving multiple teams, including frontend, backend, and mobile, fostering effective collaboration and coordination for successful project execution.",
+      // "Skilled in utilizing log files for debugging, adept at efficient web resource searching, and knowledgeable in SIT and UAT workflows.",
+      // "Proficient in deploying applications using Tomcat, SQLDeveloper, and FileZilla for streamlined server management and file transfer."
+      // "Developing and maintaining web applications using React.js and other related technologies.",
+      // "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      // "Implementing responsive design and ensuring cross-browser compatibility.",
+      // "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+    tools: [
+      "ReactJS",
+      "Git",
+      // ""
+    ],
+  },
+  {
     title: "Java Software Engineer Intern",
-    company_name: "Finexus International Sdn Bhd",
+    company_name: "Finexus International Sdn. Bhd.",
     icon: finexus,
     iconBg: "#383E56",
     date: "Feb 2023 - Jul 2023",
@@ -191,7 +217,7 @@ const experiences = [
   },
   {
     title: "Web Developer Intern",
-    company_name: "Jonvi Marketing Sdn Bhd",
+    company_name: "Jonvi Marketing Sdn. Bhd.",
     icon: jonvi,
     iconBg: "#E6DEDD",
     date: "Jan 2019 - May 2019",

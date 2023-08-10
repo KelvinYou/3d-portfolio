@@ -48,8 +48,16 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="empty-4 text-gray-300 text-[17px] max-w-3xl leading-[30px] text-justify"
       >
-        I'm a 
-        <span className="text-[#915eff] font-bold"> Junior Software Engineer </span> 
+        I have developed in the field of software development for 4 years, 
+        eagerly immersed in the exploration of cutting-edge trends such as 
+        <span className="text-[#7de7eb] font-bold"> blockchain (web3) technology </span> 
+        . With my proficiency, I can leverage the power of the 
+        <span className="text-[#7de7eb] font-bold"> NodeJS framework (ReactJS, NextJS, ExpressJS) </span> 
+        and leverage 
+        <span className="text-[#7de7eb] font-bold"> Flutter </span> 
+        proficiently to build hybrid apps that transcend the traditional boundaries 
+        of the Android and iOS platforms.
+        {/* I'm a 
         with experience in TypeScript and Javascript, and expertise in frameworks like 
         <span className="text-[#915eff] font-bold"> ReactJS (NextJS) </span>, 
         <span className="text-[#915eff] font-bold"> NodeJS (ExpressJS) </span>and
@@ -70,7 +78,7 @@ const About = () => {
         real-world challenges. I am a 
         <span className="text-[#915eff] font-bold"> quick learner </span>
         and dedicated to bringing your 
-        ideas to life. Let's work together to bring your ideas to life!
+        ideas to life. Let's work together to bring your ideas to life! */}
       </motion.p>
 
       {/* Service Card */}
